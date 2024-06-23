@@ -1,0 +1,21 @@
+yfinance
+pandas-ta
+plotly
+tqdm
+scipy
+ta
+tapy
+datetime
+keras
+tensorflow
+backtesting
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+gunicorn
+#-e .
